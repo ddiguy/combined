@@ -9,9 +9,9 @@ $ ./checking.sh
  
 Master DNS server
 ( 1) dns4.p09.nsone.net.. 1495573222
- 
+
 Slave DNS servers:
- 
+
 ( 1) dns4.p09.nsone.net.. 1495573222 [OK]
 ( 2) ns3.p43.dynect.net.. 2017052306 [ALERT – SERIAL NUMBER HIGHER THAN MASTER]
 ( 3) ns1.p43.dynect.net.. 2017052306 [ALERT – SERIAL NUMBER HIGHER THAN MASTER]
