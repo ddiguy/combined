@@ -2,7 +2,7 @@
  
 import requests
  
-r = requests.get('https://reg.arin.net/rest/poc/ZW100-ARIN?apikey=API-5E9E-4E66-4DD4-AEB4') 
+r = requests.get('https://whois.arin.net/rest/net/NET-54-200-0-0-1/pft?s=54.203.244.87') 
 
 print r.text
 
