@@ -1,7 +1,7 @@
+<a name="top-of-page"></a>
 # script details
-<a name="top-of-page">
 Read each section below for usage info
-</a>
+
 
 Follow the links to take you to the section for more details on usage:</br>
 -  [autorefresh-web-page](#autorefresh-web-page)
