@@ -58,6 +58,8 @@ Slave DNS servers:
 ( 8) dns2.p09.nsone.net.. 1495573222 [OK]
 ```
 
+Click to go back to [top of page](#top-of-page).
+
 ## Release History
 
 * 0.0.1
