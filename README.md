@@ -1,8 +1,17 @@
+<a name="top-of-page">
 # script details
 Read each section below for usage info
+</a>
 
+Follow the links to take you to the section for more details on usage:</br>
+-  [autorefresh-web-page](#autorefresh-web-page)
+-  [dns-soa-check](#dns-soa-check)
+
+
+<a name="autorefresh-web-page">
 # autorefresh-web-page
 Purpose is to automatically refresh web page
+</a>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -25,31 +34,12 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
-
-## Release History
-
-* 0.0.1
-    * The first proper release
-
-## Meta
-
-Brian Bullard – [@BrianBullard94](https://twitter.com/brianbullard94) – brian@ddidns.com
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/ddiguy](https://github.com/ddiguy)
-
-## Contributing
-
-1. Fork it (<https://github.com/ddiguy/autorefresh-web-page/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+Click to go back to [top of page](#top-of-page).
 
 
+<a name="dns-soa-check">
 # dns-soa-check
-
+</a>
 Used to verify if serial numbers on slave DNS servers are not higher than master DNS server</br>
 </br>
 Sample output when script is run:</br>
@@ -72,6 +62,28 @@ Slave DNS servers:</br>
 ( 7) ns2.p43.dynect.net.. 2017052306 [ALERT – SERIAL NUMBER HIGHER THAN MASTER]</br>
 ( 8) dns2.p09.nsone.net.. 1495573222 [OK]</br>
 </br>
+
+
+## Release History
+
+* 0.0.1
+    * The first proper release
+
+## Meta
+
+Brian Bullard – [@BrianBullard94](https://twitter.com/brianbullard94) – brian@ddidns.com
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[https://github.com/ddiguy](https://github.com/ddiguy)
+
+## Contributing
+
+1. Fork it (<https://github.com/ddiguy/autorefresh-web-page/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
