@@ -43,9 +43,8 @@ Click to go back to [top of page](#top-of-page).
 Used to verify if serial numbers on slave DNS servers are not higher than master DNS server</br>
 </a>
 </br>
-Sample output when script is run:</br>
-</br>
-</br>
+Sample output when script is run:
+
 ```sh
 $ ./checking.sh 
 ======== SOA Check ========
@@ -63,7 +62,6 @@ Slave DNS servers:
 ( 6) dns3.p09.nsone.net.. 1495573222 [OK]
 ( 7) ns2.p43.dynect.net.. 2017052306 [ALERT – SERIAL NUMBER HIGHER THAN MASTER]
 ( 8) dns2.p09.nsone.net.. 1495573222 [OK]
-
 ```
 
 ## Release History
