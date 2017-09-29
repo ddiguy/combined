@@ -28,12 +28,6 @@ Google Chrome and Safari (tested on Mac OS X):
 2.  In the bookmark, paste the contents of the web_page_refresh.js file 
 ```
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
 Click to go back to [top of page](#top-of-page).
 
 
