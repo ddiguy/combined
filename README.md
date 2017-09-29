@@ -1,5 +1,5 @@
-<a name="top-of-page">
 # script details
+<a name="top-of-page">
 Read each section below for usage info
 </a>
 
