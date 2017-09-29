@@ -8,8 +8,8 @@ Follow the links to take you to the section for more details on usage:</br>
 -  [dns-soa-check](#dns-soa-check)
 
 
-<a name="autorefresh-web-page">
 # autorefresh-web-page
+<a name="autorefresh-web-page">
 Purpose is to automatically refresh web page
 </a>
 
@@ -37,10 +37,11 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 Click to go back to [top of page](#top-of-page).
 
 
-<a name="dns-soa-check">
 # dns-soa-check
-</a>
+
+<a name="dns-soa-check">
 Used to verify if serial numbers on slave DNS servers are not higher than master DNS server</br>
+</a>
 </br>
 Sample output when script is run:</br>
 </br>
